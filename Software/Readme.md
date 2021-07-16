@@ -13,5 +13,8 @@ Purpose of this section is to provide links to relevant software packages that w
 * GNN
   * Graph Learning: https://github.com/snap-stanford
   * Graph Sage: https://github.com/williamleif/GraphSAGE
+  * DGL 
+   * https://docs.dgl.ai/en/latest/guide/index.html
+   * https://github.com/dmlc/dgl
 
 * Scalable ML
