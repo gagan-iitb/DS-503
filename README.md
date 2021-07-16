@@ -7,10 +7,9 @@ Motivation
 ----------
 
 * Getting data is becoming easier day by day, but we have _too much_ to analyze (e.g. web, transactional data, text)
-* Data has _errors_ of various types (missing, incorrect etc.) and is _hard to clean_ (e.g. surveys, user reviews) 
+* Data has _errors_ of various types (missing, incorrect etc.), is _incomplete_ and is _hard to clean_ (e.g. surveys, user reviews, ratings, distorted images) 
 * Data is usually _high-dimensional_ (involving lot of columns or features) (e.g. text, images, videos, graphs)
-* Data is _incomplete, with missing values_ (e.g. user reviews, ratings, distorted images)
-* Data may have _complex correlations_ (e.g. graph data, time-series data) 
+* Data usually has _complex correlations_ and i.i.d. assumptions don't always work very well (e.g. graph data, time-series data) 
 * Data is being generated at a great speed and it is too expensive to store all of it (e.g. user or machine transactions, queries)
 
 __But we have to make decisions (often in real-time)__. We want to learn how that is being done and solve problems.
@@ -18,12 +17,12 @@ __But we have to make decisions (often in real-time)__. We want to learn how tha
 Course Objectives
 -----------------
 
-* Equip students with the __mathematical toolkit__ needed for understanding the important data analysis and ML algorithms
+* Equip students with the __mathematical toolkit__ needed for understanding and implementing the important data analysis and ML algorithms
 * Explain new paradigms of __algorithm design__ for handling complex datasets including __streaming algorithms__
 * Explore robust and state of the art __(SOTA)__ techniques in large scale ML
 * Introduce Graph neural networks __(GNN)__ and its applications to Knowledge Graphs and Bio-informatics
 * Introduce __Matrix Profile__ and related techniques for analyzing complex time-series data
-* Provide hands-on experience to students in analyzing datasets in diverse fields __(NLP, Image/Video, Graphs, Networks, Bio-informatics)__
+* Provide hands-on experience to students in analyzing datasets in diverse fields __(NLP, Image/Video, Graphs, Networks, Bio-informatics, Finance)__
 
 
 Pre-requisites
