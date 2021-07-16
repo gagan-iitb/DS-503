@@ -55,6 +55,10 @@ https://www.analyticsvidhya.com/blog/2021/05/top-10-open-source-datasets-for-obj
   
 * UCI 
   https://kdd.ics.uci.edu/summary.data.type.html
+  https://archive-beta.ics.uci.edu/ml/datasets
+  https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction#
+  
+  
   
 * Cybersecurity
   https://www.unb.ca/cic/datasets/index.html
