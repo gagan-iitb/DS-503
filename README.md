@@ -45,13 +45,16 @@ Tentative Course Outline (per fractal)
 ![image](https://user-images.githubusercontent.com/79624301/125885925-07826a96-29d8-4833-aeb5-79bb29330acc.png)
 
 * Last fractal will focus on course project and presentations.
+* Useful resources have been posted 
 
 
 Similar Courses
 ----------------
-https://web.stanford.edu/class/cs246/index.html#content
-http://web.stanford.edu/class/cs224w/
-https://courses.cs.washington.edu/courses/cse547/21sp/
-https://www.cs.rpi.edu/~zaki/courses/datamining/
-https://www.cs.utah.edu/~jeffp/DMBook/DM-AGP.html
+* https://web.stanford.edu/class/cs246/index.html#content
+* http://web.stanford.edu/class/cs224w/
+* https://courses.cs.washington.edu/courses/cse547/21sp/
+* https://www.cs.rpi.edu/~zaki/courses/datamining/
+* https://www.cs.utah.edu/~jeffp/DMBook/DM-AGP.html
+
+
 
