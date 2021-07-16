@@ -14,8 +14,10 @@ Motivation
 * Data (packets) on the network is encrypted 
 
 __We are often asked to answer difficult questions from this messy data__
+
 __We have to make decisions (often in real-time)__. 
-We want to learn how that is being done and solve real-life problems.
+
+In this course, we want to learn how that is being done and solve real-life problems that we are interested in.
 
 Course Objectives
 -----------------
@@ -24,7 +26,7 @@ Course Objectives
 * Explain new paradigms of __algorithm design__ for handling complex datasets including __streaming algorithms__
 * Explore robust and state of the art __(SOTA)__ techniques in large scale ML
 * Introduce Graph neural networks __(GNN)__ and its applications to Knowledge Graphs and Bio-informatics
-* Introduce __Matrix Profile__ and related techniques for analyzing complex time-series data
+* Introduce __DTW__, __Matrix Profile__ and related techniques for analyzing complex time-series data (clustering, anomaly detection, pattern mining, prediction)
 * Provide hands-on experience to students in analyzing datasets in diverse fields __(NLP, Image/Video, Graphs, Networks, Bio-informatics, Finance)__
 
 
