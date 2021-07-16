@@ -7,9 +7,9 @@ Motivation
 ----------
 
 * Getting data is becoming easier day by day, but we have _too much_ to analyze (e.g. web, transactional data, text)
-* Data has _errors_ of various types (missing, incorrect etc.) and is _hard to clean_ (e.g. surveys) 
+* Data has _errors_ of various types (missing, incorrect etc.) and is _hard to clean_ (e.g. surveys, user reviews) 
 * Data is usually _high-dimensional_ (involving lot of columns or features) (e.g. text, images, videos, graphs)
-* Data is _incomplete, with missing values_ (e.g. images, )
+* Data is _incomplete, with missing values_ (e.g. user reviews, ratings, distorted images)
 * Data may have _complex correlations_ (e.g. graph data, time-series data) 
 * Data is being generated at a great speed and it is too expensive to store all of it (e.g. user or machine transactions, queries)
 
