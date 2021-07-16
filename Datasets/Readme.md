@@ -15,7 +15,9 @@ Nearest Neighbors in High Dimensions
   https://labs.pinterest.com/user/themes/pin_labs/assets/paper/learningunifiedembedding-kdd2019.pdf
   https://arxiv.org/abs/1702.07969
   
-
+* Click Stream
+  https://www.kaggle.com/c/kddcup2012-track2
+  
 
 
 
@@ -47,6 +49,20 @@ Assorted
 https://www.analyticsvidhya.com/blog/2021/05/top-10-open-source-datasets-for-object-detection-machine-learning-in-2021/
 
 
+* KDD Cup Problems (https://kdd.org/kdd-cup)
+  * Author Disambiguation (KDD 2013)
+  https://www.kaggle.com/c/kdd-cup-2013-author-disambiguation
+  
+* UCI 
+  https://kdd.ics.uci.edu/summary.data.type.html
+  
+* Cybersecurity
+  https://www.unb.ca/cic/datasets/index.html
+  
+  
+
+
+  
 
 
 
