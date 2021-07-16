@@ -51,6 +51,17 @@ Tentative Course Outline (per fractal)
 * Last fractal will focus on course project and presentations.
 * Useful resources have been posted 
 
+Books
+-----
+* Course Textbook
+  MMDS : http://www.mmds.org/
+  
+* Reference Materials
+  Graph Representation Learning: https://www.cs.mcgill.ca/~wlh/grl_book/
+  Small Summaries of Big Data: http://dimacs.rutgers.edu/~graham/ssbd.html
+  
+* Research Papers (will be added to the folder)
+* Handouts (short notes on various important topics)
 
 Similar Courses
 ----------------
