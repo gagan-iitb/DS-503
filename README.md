@@ -7,12 +7,15 @@ Motivation
 ----------
 
 * Getting data is becoming easier day by day, but we have _too much_ to analyze (e.g. web, transactional data, text)
-* Data has _errors_ of various types (missing, incorrect etc.), is _incomplete_ and is _hard to clean_ (e.g. surveys, user reviews, ratings, distorted images) 
+* Data has _errors_ of various types (missing, incorrect etc.), is _incomplete_ and is _hard to clean_ (e.g. user reviews/ratings, distorted images) 
 * Data is usually _high-dimensional_ (involving lot of columns or features) (e.g. text, images, videos, graphs)
 * Data usually has _complex correlations_ and i.i.d. assumptions don't always work very well (e.g. graph data, time-series data) 
 * Data is being generated at a great speed and it is too expensive to store all of it (e.g. user or machine transactions, queries)
+* Data (packets) on the network is encrypted 
 
-__But we have to make decisions (often in real-time)__. We want to learn how that is being done and solve problems.
+__We are often asked to answer difficult questions from this messy data__
+__We have to make decisions (often in real-time)__. 
+We want to learn how that is being done and solve real-life problems.
 
 Course Objectives
 -----------------
