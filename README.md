@@ -36,7 +36,7 @@ Pre-requisites
 * Knowledge of basic computer science principles and skills, at a level sufficient to write a reasonably non-trivial computer program 
 * Math
   * Linear Algebra ( Matrix-factorization, Eigenvalues, Column and row spaces, Norms)
-  * Probability theory (Conditional, Bayes Rule, Distributions, Gaussian, Multi-variate) 
+  * Probability theory (Conditional, Bayes Rule, Concentration Inequalities, Distributions, Gaussian, Multi-variate) 
   * Basic Data Structures, Algorithms and Asymptotic Analysis (graphs, heaps, lists, dynamic programming)
   * Calculus (Multi-variate)
   
