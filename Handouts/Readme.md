@@ -5,6 +5,10 @@ Some background material on math for data science taught to first year students 
 https://drive.google.com/drive/folders/12YGeURypMl0s3Bu-psdhk_F9JoRwpLJL?usp=sharing
 
 
+
+
+
+
 e^x Taylor series (visualize): https://www.desmos.com/calculator/sxlp02acgg
 
 
