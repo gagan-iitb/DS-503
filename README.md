@@ -10,8 +10,9 @@ Motivation
 * Data has _errors_ of various types (missing, incorrect etc.), is _incomplete_ and is _hard to clean_ (e.g. user reviews/ratings, distorted images) 
 * Data is usually _high-dimensional_ (involving lot of columns or features) (e.g. text, images, videos, graphs)
 * Data usually has _complex correlations_ and i.i.d. assumptions don't always work very well (e.g. graph data, time-series data) 
-* Data is being generated at a great speed and it is too expensive to store all of it (e.g. user or machine transactions, queries)
-* Data (packets) on the network is encrypted 
+* Data is _incomplete_ (matrix completion, compressed sensing, signal re-construction)
+* Data is being generated at a _great speed_ and it is too _expensive to store_ all of it (e.g. user or machine transactions, queries)
+* Data (packets) on the network is _encrypted_ 
 
 __We are often asked to answer difficult questions from this messy data__
 
