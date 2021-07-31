@@ -50,6 +50,7 @@ Tentative Course Outline (per fractal)
 
 * Last fractal will focus on course project and presentations.
 * Useful resources have been posted 
+* Lectures (M 2:30, Tue 4:00) on https://iitbhilai.webex.com/meet/b103
 
 Books
 -----
