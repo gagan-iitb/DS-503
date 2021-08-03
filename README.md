@@ -56,12 +56,13 @@ Tentative Course Outline (per fractal)
 Books
 -----
 * Course Textbook
-  MMDS : http://www.mmds.org/
+  Mining of Massive Datasets (MMDS) : http://www.mmds.org/
   
 * Reference Materials
-  Graph Representation Learning: https://www.cs.mcgill.ca/~wlh/grl_book/
-  Small Summaries of Big Data: http://dimacs.rutgers.edu/~graham/ssbd.html
-  
+  * Foundations of Data Science (FoDS) : https://www.cs.cornell.edu/jeh/book.pdf
+  * Graph Representation Learning (GRL) : https://www.cs.mcgill.ca/~wlh/grl_book/
+  * Small Summaries of Big Data (SSBD) : http://dimacs.rutgers.edu/~graham/ssbd.html
+    
 * Research Papers (will be added to the folder)
 * Handouts (short notes on various important topics)
 
@@ -72,6 +73,3 @@ Similar Courses
 * https://courses.cs.washington.edu/courses/cse547/21sp/
 * https://www.cs.rpi.edu/~zaki/courses/datamining/
 * https://www.cs.utah.edu/~jeffp/DMBook/DM-AGP.html
-
-
-
