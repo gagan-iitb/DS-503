@@ -57,8 +57,8 @@ Meeting Times
 * Lectures (Mon 2:30 p.m., Tue 4:00 p.m.) on https://iitbhilai.webex.com/meet/b103
 * Extra Class/Doubt Clearing Session: Sat 11:00 a.m. on https://iitbhilai.webex.com/meet/b103
 
-Books
------
+Books/References/Practice materials
+-----------------------------------
 * Course Textbook
   Mining of Massive Datasets (MMDS) : http://www.mmds.org/
   
@@ -69,6 +69,8 @@ Books
     
 * Research Papers (will be added to the folder)
 * Handouts (short notes on various important topics)
+* Sample code snippets will be posted in the Handouts section for students to practice data analysis programming
+* Useful datasets will also be provided for practice
 
 Similar Courses
 ----------------
