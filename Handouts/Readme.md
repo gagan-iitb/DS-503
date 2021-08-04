@@ -2,6 +2,14 @@ __Useful handouts for background preparation and reference__
 ------------------------------
 They have been prepared by different people across the world and we give all credits to them for their help.
 
+__Sample Programs will be posted as Jupyter Notebooks for students to practice the concepts__
+They also contain some exercises for you to complete 
+
+
+
+
+
+
 * __Math__
 
 Some background material on math for data science taught to first year students (available only via IIT Bhilai login) 
