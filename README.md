@@ -33,8 +33,8 @@ Course Objectives
 
 Pre-requisites
 --------------
-* Good knowledge of Python (most assignments will be based on Python)
-* Knowledge of basic computer science principles and skills, at a level sufficient to write a reasonably non-trivial computer program 
+* Basic knowledge of Python (most assignments will be based on Python)
+* Knowledge of basic computer science principles and skills
 * Math
   * Linear Algebra ( Matrix-factorization, Eigenvalues, Column and row spaces, Norms)
   * Probability theory (Conditional, Bayes Rule, Concentration Inequalities, Distributions, Gaussian, Multi-variate) 
