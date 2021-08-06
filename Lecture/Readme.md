@@ -5,3 +5,5 @@ Lecture 1 has been uploaded.
 
 Link for first Quiz: https://forms.gle/FJmu2en73TuoKyST8
 
+Lecture 2 is skipped for now. We will do Lecture 3 on 8/9
+
