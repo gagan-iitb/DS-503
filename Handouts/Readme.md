@@ -13,14 +13,13 @@ __Reading Materials and Useful Videos for Topics__
   
   * Statistics: [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem),[Covariance](https://en.wikipedia.org/wiki/Covariance_matrix),[Multivariate Normal](https://en.wikipedia.org/wiki/Multivariate_normal_distribution)
 
- * Data/Feature Scaling(https://en.wikipedia.org/wiki/Feature_scaling) (https://towardsdatascience.com/all-about-feature-scaling-bcc0ad75cb35)
+  * Data/Feature Scaling: [Wiki](https://en.wikipedia.org/wiki/Feature_scaling), [DS](https://towardsdatascience.com/all-about-feature-scaling-bcc0ad75cb35)
+  
   Videos: [Normal](https://www.youtube.com/watch?v=eho8xH3E6mE), [Covariance](https://www.youtube.com/watch?v=152tSYtiQbw) 
   
 
-
-
-
-
+__Good Youtube Videos__
+Ritvik Math: https://www.youtube.com/channel/UCUcpVoi5KkJmnE3bvEhHR0Q
 
 
 __Past UG Courses__
@@ -51,14 +50,5 @@ https://livebook.manning.com/book/introducing-data-science/about-this-book/
 Also learn Numpy, Pandas, Seaborn, Scikit learn etc.
 
 
-
-
-
-
 __Demos__
 e^x Taylor series (visualize): https://www.desmos.com/calculator/sxlp02acgg
-
-
-
-
-
