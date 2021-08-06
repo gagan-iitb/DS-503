@@ -19,7 +19,8 @@ __Reading Materials and Useful Videos for Topics__
   
 
 __Good Youtube Videos__
-Ritvik Math: https://www.youtube.com/channel/UCUcpVoi5KkJmnE3bvEhHR0Q
+
+* Ritvik Math: https://www.youtube.com/channel/UCUcpVoi5KkJmnE3bvEhHR0Q
 
 
 __Past UG Courses__
