@@ -19,13 +19,15 @@ __Reading Materials and Useful Videos for Topics__
   
 
 __Good Youtube Videos__
+* Scalable Data Science Course (Very similar NPTEL course)[link](https://www.youtube.com/watch?v=pdg2MUZLeSE&list=PLbRMhDVUMngekIHyLt8b_3jQR7C0KUCul)
+  
 
 * Prof. Gilbert Strang's Videos (You can watch topics of your interest):
-  * Summary: https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/videos/
-  * Linear Algebra Full course: https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C
-  * Data Analysis: https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
+  * [Summary:](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/videos/)
+  * [Linear Algebra Full course:](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)
+  * [Data Analysis:](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 
-* Ritvik Math: https://www.youtube.com/channel/UCUcpVoi5KkJmnE3bvEhHR0Q
+* Ritvik Math: [link](https://www.youtube.com/channel/UCUcpVoi5KkJmnE3bvEhHR0Q)
 
 
 __Past UG Courses at IIT Bhilai__
