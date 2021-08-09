@@ -54,7 +54,7 @@ Tentative Course Outline (per fractal)
 
 Meeting Times
 -------------
-* Lectures (Mon 2:30 p.m., Tue 4:00 p.m.) on https://iitbhilai.webex.com/meet/b103
+* Lectures (Mon 2:30 p.m., Tue 4:00 p.m.) on https://iitbhilai.webex.com/meet/b204
 * Extra Class/Doubt Clearing Session: TBD (we will discuss it on Aug 9, Monday)
 
 Books/References/Practice materials
