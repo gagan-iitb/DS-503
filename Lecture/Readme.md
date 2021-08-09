@@ -21,6 +21,8 @@ Lecture 2 is skipped for now.
 
   * Key Words: [Vector Projections](https://en.wikipedia.org/wiki/Vector_projection),[Projection Matrix](https://en.wikipedia.org/wiki/Projection_matrix), [Principal Component Analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis), [Singular Value Decomposition (SVD)](https://en.wikipedia.org/wiki/Singular_value_decomposition), [Gram Schmidt](https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process), [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression), [John Lindenstrauss (JL) Lemma](https://en.wikipedia.org/wiki/Johnson%E2%80%93Lindenstrauss_lemma)
 
+Interesting Blog: http://colah.github.io/posts/2014-10-Visualizing-MNIST/
+
   * Videos for this week: 
     * [Curse of Dimensionality and Jl Lemma:](https://www.youtube.com/watch?v=xVh6B7zhh88)
     *  Scalable Data Science Course Videos (Very similar NPTEL course)[link](https://www.youtube.com/watch?v=pdg2MUZLeSE&list=PLbRMhDVUMngekIHyLt8b_3jQR7C0KUCul)
