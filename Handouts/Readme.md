@@ -17,6 +17,10 @@ __Reading Materials and Useful Videos for Topics__
   
   Videos: [Normal](https://www.youtube.com/watch?v=eho8xH3E6mE), [Covariance](https://www.youtube.com/watch?v=152tSYtiQbw) 
   
+*__Readings__
+  * [Mathematics for deep learning from the D2L book: Good perspective](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html#)
+  * [Extensions of PCA from Deep Learning Book](https://www.deeplearningbook.org/contents/linear_factors.html)
+
 
 __Good Youtube Videos__
 * Scalable Data Science Course (Very similar NPTEL course)[link](https://www.youtube.com/watch?v=pdg2MUZLeSE&list=PLbRMhDVUMngekIHyLt8b_3jQR7C0KUCul)
