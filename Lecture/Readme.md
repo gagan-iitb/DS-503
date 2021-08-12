@@ -31,7 +31,7 @@ Face Decomposition Example: https://scikit-learn.org/0.16/auto_examples/decompos
 
  * Videos for the week 
    * [LSH](https://www.youtube.com/watch?v=YVL7QlRWd24)
-   * [Compressed Sensing](http://databookuw.com/page-2/page-13/)
+   * [Compressed Sensing](http://databookuw.com/page-2/page-13/)(https://www.youtube.com/watch?v=W-b4aDGsbJk)
    * [Kernel Methods]()
  
 
