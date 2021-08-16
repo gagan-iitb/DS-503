@@ -23,7 +23,7 @@ In this course, we want to learn how that is being done and solve real-life prob
 Course Objectives
 -----------------
 
-* Equip students with the __mathematical toolkit__ needed for understanding and implementing the important data analysis and ML algorithms
+* Equip students with the __mathematical toolkit__ (linear algebra, statistics, optimization), needed for understanding and implementing the important data analysis and ML algorithms
 * Explain new paradigms of __algorithm design__ for handling complex datasets including __streaming algorithms__
 * Explore robust and state of the art __(SOTA)__ techniques in large scale ML
 * Introduce Graph neural networks __(GNN)__ and its applications to Knowledge Graphs and Bio-informatics
@@ -45,17 +45,28 @@ If you don't meet one or more pre-requisites, be prepared to spend more time bef
 
 Tentative Course Outline (per fractal)
 --------------------------------------
-
-
 ![image](https://user-images.githubusercontent.com/79624301/125885925-07826a96-29d8-4833-aeb5-79bb29330acc.png)
-
 * Last fractal will focus on course project and presentations.
 * Useful resources have been posted 
+
+| Week | Topics covered in class | Text Book Reference |
+| --- | --- | ---- |
+| 1 | Math of Data: Algebriac, Geometric and Statistical Views; High-dimensional geometry: Curse of dimensionality, Gaussian Annulus theorem, Volume of unit ball, orthogonal directions| FoDS Chapter 2|
+| 2 | Projection Techniques: Auto-encoder view, Best fit subspaces; PCA (maximize variance), Variants of PCA, Eigenfaces; SVD and applications, Power-iteration methods; Random projections: JL Lemma; Linear Regression as projection to column space using Normal Equations, Pseudo-inverse and QR methods; Data visualization| FoDS Chapter 3, MML Chapter 10|
+|3|Locality Sensitive Hashing (LSH),| MMDS Chapter 3  |
+|4|Streaming Data Analytics|MMDS Chapter 4|
+|5|Online Learning Algorithms: Bandit algorithms, Perceptron, | |
+|6|Convex Optimization Formulations of ML problems, Convexity, Gradient Descent and Variants, ||
+|7| | |
+
+
+
+
 
 Meeting Times
 -------------
 * Lectures (Mon 2:30 p.m., Tue 4:00 p.m.) on https://iitbhilai.webex.com/meet/b204
-* Extra Class/Doubt Clearing Session: TBD (we will discuss it on Aug 9, Monday)
+* Extra Class/Doubt Clearing Sessions: On request 
 
 Books/References/Practice materials
 -----------------------------------
