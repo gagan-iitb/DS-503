@@ -6,6 +6,6 @@ We will be posting the assignments and updates or help regarding them in this se
 
  *  (Aug 16) The second homework is posted on Gradience (due date Aug 25)
  
- *  (Aug  ??) The third homework is posted on Gradience (due date Sep ??)
+ *  (Aug  24) The third homework is posted on Gradience (due date Sep 1)
  
 
