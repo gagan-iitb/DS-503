@@ -54,8 +54,8 @@ Tentative Course Outline (per fractal)
 | 1 | Math of Data: Algebriac, Geometric and Statistical Views; High-dimensional geometry: Curse of dimensionality, Gaussian Annulus theorem, Volume of unit ball, orthogonal directions| FoDS Chapter 2|
 | 2 | Projection Techniques: Auto-encoder view, Best fit subspaces; PCA (maximize variance), Variants of PCA, Eigenfaces; SVD and applications, Power-iteration methods; Random projections: JL Lemma; Linear Regression as projection to column space using Normal Equations, Pseudo-inverse and QR methods; Data visualization| FoDS Chapter 3, MML Chapter 10|
 |3|Locality Sensitive Hashing (LSH): Shingling, Min-hash, LSH, tradeoff with r and b; LSH for other metrics (Cosine, Euclidean); Compressed sensing: Solving Under-determined system of linear equations using Convex Optimization (L1 norm), Sparsity, Incoherence, Restricted Isometry Property (sparse vectors)| MMDS Chapter 3, Reference Papers |
-|4|Streaming Data Analytics: Limitations of Random Sampling, Reservoir Sampling, Sliding Window Queries, DGIM algorithm, Recent Itemsets, Bloom Filters, Count Distinct, Moment Estimation |MMDS Chapter 4|
-|5|Online Learning Algorithms: Bandit algorithms, Perceptron, | |
+|4|Streaming Data Analytics: Limitations of Random Sampling, Reservoir Sampling, Sliding Window Queries, DGIM algorithm, Recent Itemsets, Bloom Filters, Count Distinct, Frequency Estimation (MG, Space Saving, Count-Min), Moment Estimation, Quantile Estimation (KLL) |MMDS Chapter 4, SSBD|
+|5|Online Learning Algorithms: Bandit algorithms, Perceptron |   |
 |6|Convex Optimization Formulations of ML problems, Convexity, Gradient Descent and Variants, ||
 |7| | |
 
@@ -66,7 +66,7 @@ Tentative Course Outline (per fractal)
 Meeting Times
 -------------
 * Lectures (Mon 2:30 p.m., Tue 4:00 p.m.) on https://iitbhilai.webex.com/meet/b204
-* Extra Class/Doubt Clearing Sessions: On request 
+* Extra Class on Sat, Aug 28 (11 am) : Check link on whatsapp group/email 
 
 Books/References/Practice materials
 -----------------------------------
