@@ -57,7 +57,7 @@ Tentative Course Outline (per fractal)
 |4|Streaming Data Analytics: Limitations of Random Sampling, Reservoir Sampling, Sliding Window Queries, DGIM algorithm, Recent Itemsets, Bloom Filters, Count Distinct, Frequency Estimation (MG, Space Saving, Count-Min), Moment Estimation, Quantile Estimation (KLL) |MMDS Chapter 4, SSBD|
 |5|Online Learning Algorithms: Bandit algorithms, Perceptron |   |
 |6|Convex Optimization Formulations of ML problems, Convexity, Computing Gradients, Gradient Descent and Variants, Autodiff and backpropagation||
-|7|Neural Networks, DNN, CNN Architecture, Resnet |https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d |
+|7|Neural Networks, DNN, CNN Architecture, Resnet |[Reading](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d) |
 |8|Graphs, Graph Kernels, Graph Neural Networks, Attention Models|GRL|
 |9|Knowledge graphs, Scalable Graph Learning|GRL|
 |10|GANs, Text Embeddings, Graph Embeddings||
