@@ -35,6 +35,9 @@ Face Decomposition Example: https://scikit-learn.org/0.16/auto_examples/decompos
    * [Kernel Methods]()
  
 
-
+* __Readings for Week 4___
+  * https://datasketches.apache.org/docs/Background/TheChallenge.html
+  * https://nptel.ac.in/courses/106/105/106105186/
+  * SSBD book Chapters 3 and 4
 
 
