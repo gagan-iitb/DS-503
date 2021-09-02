@@ -51,11 +51,11 @@ Tentative Course Outline (per fractal)
 
 | Week | Topics covered in class | Text Book Reference |
 | --- | --- | ---- |
-| 1 | Math of Data: Algebriac, Geometric and Statistical Views; High-dimensional geometry: Curse of dimensionality, Gaussian Annulus theorem, Volume of unit ball, orthogonal directions| FoDS Chapter 2|
+| 1 | Math of Data: Algebraic, Geometric and Statistical Views; High-dimensional geometry: Curse of dimensionality, Gaussian Annulus theorem, Volume of unit ball, orthogonal directions| FoDS Chapter 2|
 | 2 | Projection Techniques: Auto-encoder view, Best fit subspaces; PCA (maximize variance), Variants of PCA, Eigenfaces; SVD and applications, Power-iteration methods; Random projections: JL Lemma; Linear Regression as projection to column space using Normal Equations, Pseudo-inverse and QR methods; Data visualization| FoDS Chapter 3, MML Chapter 10|
 |3|Locality Sensitive Hashing (LSH): Shingling, Min-hash, LSH, tradeoff with r and b; LSH for other metrics (Cosine, Euclidean); Compressed sensing: Solving Under-determined system of linear equations using Convex Optimization (L1 norm), Sparsity, Incoherence, Restricted Isometry Property (sparse vectors)| MMDS Chapter 3, Reference Papers |
-|4|Streaming Data Analytics: Limitations of Random Sampling, Reservoir Sampling, Sliding Window Queries, DGIM algorithm, Recent Itemsets, Bloom Filters, Count Distinct, Frequency Estimation (MG, Space Saving, Count-Min), Moment Estimation, Quantile Estimation (KLL) |MMDS Chapter 4, SSBD|
-|5|Online Learning Algorithms: Bandit algorithms, Perceptron |   |
+|4|Streaming Data Analytics: Limitations of Random Sampling, Reservoir Sampling, Sliding Window Queries, DGIM algorithm, Recent Itemsets, Bloom Filters, Count Distinct, Frequency Estimation (MG, Space Saving, Count-Min), Moment Estimation |MMDS Chapter 4, SSBD|
+|5|Intro to Machine Learning Algorithms: Examples of supervised, unsupervised and re-inforcement learning, Requirements of good ML, Feature Extraction, Learning with Prototypes, K nearest neighbors, Linear Models, Perceptron, SVM, Decision Trees  |   |
 |6|Convex Optimization Formulations of ML problems, Convexity, Computing Gradients, Gradient Descent and Variants, Autodiff and backpropagation||
 |7|Neural Networks, DNN, CNN Architecture, Resnet |[Reading](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d) |
 |8|Graphs, Graph Kernels, Graph Neural Networks, Attention Models|GRL|
