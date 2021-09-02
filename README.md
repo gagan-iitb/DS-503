@@ -61,7 +61,7 @@ Tentative Course Outline (per fractal)
 |8|Graphs, Graph Kernels, Graph Neural Networks, Attention Models|GRL|
 |9|Knowledge graphs, Scalable Graph Learning|GRL|
 |10|GANs, Text Embeddings, Graph Embeddings||
-|11|Decision Trees, Clustering, Mixture Models||
+|11|Clustering, Mixture Models||
 |12|Sequence Models, LSTM, Distance functions for time series||
 |13|Matrix Profile, FFT||
 
