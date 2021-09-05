@@ -49,7 +49,7 @@ Tentative Course Outline (per fractal)
 * Last fractal will focus on course project and presentations.
 * Useful resources have been posted 
 
-| Week | Date| Topics covered in class | Text Book Reference |
+|#| Date| Topics covered in class | Text Book Reference |
 | --- | ----| ---- | ---- |
 |1| Aug 2| Math of Data: Algebraic, Geometric and Statistical Views; High-dimensional geometry: Curse of dimensionality, Gaussian Annulus theorem, Volume of unit ball, orthogonal directions| FoDS Chapter 2|
 |2| Aug 9 | Projection Techniques: Auto-encoder view, Best fit subspaces; PCA (maximize variance), Variants of PCA, Eigenfaces; SVD and applications, Power-iteration methods; Random projections: JL Lemma; Linear Regression as projection to column space using Normal Equations, Pseudo-inverse and QR methods; Data visualization| FoDS Chapter 3, MML Chapter 10|
