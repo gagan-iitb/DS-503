@@ -2,6 +2,34 @@ Projects
 --------
 Check here for project ideas:
 
+__Data Sources__
+
+  • http://snap.stanford.edu/data/
+  
+  • http://www.census.gov/
+  
+  • http://data.geocomm.com/catalog/
+  
+  • http://meta.wikimedia.org/wiki/Data_dumps
+  
+  • http://ngrams.googlelabs.com/datasets
+  
+  • http://kdd.ics.uci.edu/
+  
+  • http://www.cs.utah.edu/˜lifeifei/datasets.html
+  
+  • http://www.cise.ufl.edu/research/sparse/matrices/
+  
+  • http://webscope.sandbox.yahoo.com/
+  
+  • http://www.google.com/publicdata/directory
+  
+  • http://www.infochimps.com/tags/twitter
+  
+  • http://lib.stat.cmu.edu/datasets/
+
+
+
 Streaming Data Research
 ------------------------
 https://datasketches.apache.org/docs/Community/Research.html
