@@ -55,11 +55,11 @@ Tentative Course Outline (per fractal)
 |2| Aug 9   | Projection Techniques: Auto-encoder view, Best fit subspaces; PCA (maximize variance), Variants of PCA, Eigenfaces; SVD and applications, Power-iteration methods; Random projections: JL Lemma; Linear Regression as projection to column space using Normal Equations, Pseudo-inverse and QR methods; Data visualization| FoDS Chapter 3, MML Chapter 10|
 |3| Aug 16    |Locality Sensitive Hashing (LSH): Shingling, Min-hash, LSH, tradeoff with r and b; LSH for other metrics (Cosine, Euclidean); Compressed sensing: Solving Under-determined system of linear equations using Convex Optimization (L1 norm), Sparsity, Incoherence, Restricted Isometry Property (sparse vectors)| MMDS Chapter 3, Reference Papers |
 |4| Aug 23    |Streaming Data Analytics: Limitations of Random Sampling, Reservoir Sampling, Sliding Window Queries, DGIM algorithm, Recent Itemsets, Bloom Filters, Count Distinct, Frequency Estimation (MG, Space Saving, Count-Min), Moment Estimation |MMDS Chapter 4, SSBD|
-|5| Aug 31   |Intro to Machine Learning Algorithms: Examples of supervised, unsupervised and re-inforcement learning, Requirements of good ML, Feature Extraction, Learning with Prototypes, K nearest neighbors, Linear Models, Perceptron, SVM, Decision Trees  |   |
-|6| Sep 13      |Convex Optimization Formulations of ML problems, Convexity, Computing Gradients, Gradient Descent and Variants, Autodiff and backpropagation||
-|7| Sep 20      |Neural Networks, DNN, CNN Architecture, Resnet |[Reading](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d) |
-|8| Sep 27      |Graphs, Graph Kernels, Graph Neural Networks, Attention Models|GRL|
-|9| Oct 4        |Knowledge graphs, Scalable Graph Learning|GRL|
+|5| Aug 31   |Intro to Machine Learning Algorithms: Examples of supervised, unsupervised and re-inforcement learning, Requirements of good ML, Feature Extraction, Learning with Prototypes, K nearest neighbors  |   |
+|6| Sep 13   | Linear Models, Loss functions for Regression and Classification, Perceptron, Average Perceptron, Online ML, SVM (Hard Margin and Soft margin), Decision Trees, Information and Entropy||
+|7| Sep 20   | Ensemble Methods, Bagging, Boosting: AdaBoost, Gradient Boosting, Optimization Formulations of ML problems, Convexity, Computing Gradients, Gradient Descent and Variants, Autodiff and backpropagation | |
+|8| Sep 27   |Neural Networks, DNN, CNN Architecture, Resnet|[Reading](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d)|
+|9| Oct 4    |Graphs, Graph Kernels, Graph Neural Networks, Attention Models,|Knowledge graphs, Scalable Graph Learning|GRL|
 |10| Oct 18       |GANs, Text Embeddings, Graph Embeddings||
 |11| Nov 8       |Clustering, Mixture Models||
 |12| Nov 15      |Sequence Models, LSTM, Distance functions for time series||
