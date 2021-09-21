@@ -43,12 +43,30 @@ Face Decomposition Example: https://scikit-learn.org/0.16/auto_examples/decompos
 
 
 * __Readings for Machine Learning___
+  * Nearest Neighbor Approach to Computer Vision: https://cs231n.github.io/classification/
+  * Object Detection Short Course: https://people.csail.mit.edu/torralba/shortCourseRLOC/index.html
+  * Linear Classification (Great Tutorial with interactive demo): https://cs231n.github.io/linear-classify/#softmax-classifier
   * Decision Trees, Pruning: https://www.cs.cmu.edu/~bhiksha/courses/10-601/decisiontrees/
-  * Colah' blog : https://colah.github.io/
   * Very simple explanation for Neural Networks: http://neuralnetworksanddeeplearning.com/index.html
   * ML as Optimization: http://helper.ipam.ucla.edu/publications/elws1/elws1_13686.pdf 
+  * Colah' blog : https://colah.github.io/
   * https://www.kdnuggets.com/2019/09/friendly-introduction-support-vector-machines.html
   * https://www.kdnuggets.com/2019/07/classifying-heart-disease-using-k-nearest-neighbors.html
   * https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html
   * https://towardsai.net/p/programming/decision-trees-explained-with-a-practical-example-fe47872d3b53
   * 
+
+* __Back Propagation Explained__
+   * Developing Intuition for Solving Optimization Problems: https://cs231n.github.io/optimization-1/
+   * Intuition for Backpropgation: https://cs231n.github.io/optimization-2/
+   * Momentum Methods for Finding Optimal Solutions: https://distill.pub/2017/momentum/
+ 
+ * __Conv Neural Nets__
+   * Gentle Intro: https://cs231n.github.io/convolutional-networks/
+ 
+
+
+
+
+   * 
+
