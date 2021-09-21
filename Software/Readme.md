@@ -11,6 +11,9 @@ Purpose of this section is to provide links to relevant software packages that w
 * Streaming Algorithms
   * A software library of stochastic streaming algorithms: https://datasketches.apache.org/
 
+* Interpretable ML
+  * Good repo by Microsoft: https://github.com/interpretml/interpret
+
 * Time Series 
   * STUMPY (for matrix profiles) : https://stumpy.readthedocs.io/en/latest/index.html
 
