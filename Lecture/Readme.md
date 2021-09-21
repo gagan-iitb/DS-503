@@ -23,13 +23,13 @@ Face Decomposition Example: https://scikit-learn.org/0.16/auto_examples/decompos
     *  Scalable Data Science Course Videos (Very similar NPTEL course)[link](https://www.youtube.com/watch?v=pdg2MUZLeSE&list=PLbRMhDVUMngekIHyLt8b_3jQR7C0KUCul)
 
 * __Readings for Week 3__
- * [LSH](http://www.mit.edu/~andoni/LSH/),[LSH Application](https://santhoshhari.github.io/Locality-Sensitive-Hashing/),[LSH Uber](https://eng.uber.com/lsh/)
- * [LSH Example Code](http://ethen8181.github.io/machine-learning/recsys/content_based/lsh_text.html)
- * Optional [Compressed Sensing](https://cnx.org/contents/9wtroLnw@5.12:lh465hW1@7/Introduction-to-compressive-sensing)
- * Optional [Kernel Methods]
- * Image retreival : Read the Kaggle challenge problem: https://www.kaggle.com/c/landmark-retrieval-2019
+  * [LSH](http://www.mit.edu/~andoni/LSH/),[LSH Application](https://santhoshhari.github.io/Locality-Sensitive-Hashing/),[LSH Uber](https://eng.uber.com/lsh/)
+  * [LSH Example Code](http://ethen8181.github.io/machine-learning/recsys/content_based/lsh_text.html)
+  * Optional [Compressed Sensing](https://cnx.org/contents/9wtroLnw@5.12:lh465hW1@7/Introduction-to-compressive-sensing)
+  * Optional [Kernel Methods]
+  * Image retreival : Read the Kaggle challenge problem: https://www.kaggle.com/c/landmark-retrieval-2019
 
- * Videos for the week 
+  * Videos for the week 
    * [LSH](https://www.youtube.com/watch?v=YVL7QlRWd24)
    * [Compressed Sensing](http://databookuw.com/page-2/page-13/)(https://www.youtube.com/watch?v=W-b4aDGsbJk)
    * [Kernel Methods]()
