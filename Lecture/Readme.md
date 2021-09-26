@@ -64,9 +64,5 @@ Face Decomposition Example: https://scikit-learn.org/0.16/auto_examples/decompos
  * __Conv Neural Nets__
    * Gentle Intro: https://cs231n.github.io/convolutional-networks/
  
-
-
-
-
-   * 
-
+ * __Useful Cheat Sheets For the Entire Course__
+   * https://stanford.edu/~shervine/teaching/
