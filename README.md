@@ -55,7 +55,7 @@ Tentative Course Outline (per fractal)
 |2| Aug 9   | Projection Techniques: Auto-encoder view, Best fit subspaces; PCA (maximize variance), Variants of PCA, Eigenfaces; SVD and applications, Power-iteration methods; Random projections: JL Lemma; Linear Regression as projection to column space using Normal Equations, Pseudo-inverse and QR methods; Data visualization| FoDS Chapter 3, MML Chapter 10|
 |3| Aug 16    |Locality Sensitive Hashing (LSH): Shingling, Min-hash, LSH, tradeoff with r and b; LSH for other metrics (Cosine, Euclidean); Compressed sensing: Solving Under-determined system of linear equations using Convex Optimization (L1 norm), Sparsity, Incoherence, Restricted Isometry Property (sparse vectors)| MMDS Chapter 3, Reference Papers |
 |4| Aug 23    |Streaming Data Analytics: Limitations of Random Sampling, Reservoir Sampling, Sliding Window Queries, DGIM algorithm, Recent Itemsets, Bloom Filters, Count Distinct, Frequency Estimation (MG, Space Saving, Count-Min), Moment Estimation |MMDS Chapter 4, SSBD|
-|5| Aug 31   |Intro to Machine Learning Algorithms: Examples of supervised, unsupervised and re-inforcement learning, Requirements of good ML, Feature Extraction, Learning with Prototypes, K nearest neighbors  |   |
+|5| Aug 31   |Intro to Machine Learning Algorithms: Examples of supervised, unsupervised and re-inforcement learning, Requirements of good ML, Feature Extraction, Learning with Prototypes, K nearest neighbors  | CIML Ch2,3   |
 |6| Sep 13   | Linear Models, Loss functions for Regression and Classification, Perceptron, Average Perceptron, Online ML, SVM (Hard Margin and Soft margin), Decision Trees, Information and Entropy| MMDS Ch12|
 |7| Sep 20   | Ensemble Methods, Bagging, Boosting: AdaBoost, Gradient Boosting, Optimization Formulations of ML problems, Convexity, Computing Gradients, Gradient Descent and Variants| MMDS Ch12, MML Ch5,7|
 |8| Sep 27   |Neural Networks: Learning non-linear boundaries, Neural Nets as encoders or feature learners, Learning multiple patterns, Designing Neural Networks: Interconnections, Wide or Deep?, Activation, Loss, Auto-diff, Backprop examples, Preventing Overfitting, CNN Architecture, Resnet|MMDS Ch13 , MML Ch5,7[Reading](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d)|
@@ -78,6 +78,7 @@ Books/References/Practice materials
   
 * Reference Materials
   * Foundations of Data Science (FoDS) : https://www.cs.cornell.edu/jeh/book.pdf
+  * A Course in Machine Learning (CIML) : http://ciml.info/
   * Graph Representation Learning (GRL) : https://www.cs.mcgill.ca/~wlh/grl_book/
   * Small Summaries of Big Data (SSBD) : http://dimacs.rutgers.edu/~graham/ssbd.html
     
