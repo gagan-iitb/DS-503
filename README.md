@@ -57,8 +57,8 @@ Tentative Course Outline (per fractal)
 |4| Aug 23    |Streaming Data Analytics: Limitations of Random Sampling, Reservoir Sampling, Sliding Window Queries, DGIM algorithm, Recent Itemsets, Bloom Filters, Count Distinct, Frequency Estimation (MG, Space Saving, Count-Min), Moment Estimation |MMDS Chapter 4, SSBD|
 |5| Aug 31   |Intro to Machine Learning Algorithms: Examples of supervised, unsupervised and re-inforcement learning, Requirements of good ML, Feature Extraction, Learning with Prototypes, K nearest neighbors  |   |
 |6| Sep 13   | Linear Models, Loss functions for Regression and Classification, Perceptron, Average Perceptron, Online ML, SVM (Hard Margin and Soft margin), Decision Trees, Information and Entropy||
-|7| Sep 20   | Ensemble Methods, Bagging, Boosting: AdaBoost, Gradient Boosting, Optimization Formulations of ML problems, Convexity, Computing Gradients, Gradient Descent and Variants, Autodiff and backpropagation | |
-|8| Sep 27   |Neural Networks, DNN, CNN Architecture, Resnet|[Reading](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d)|
+|7| Sep 20   | Ensemble Methods, Bagging, Boosting: AdaBoost, Gradient Boosting, Optimization Formulations of ML problems, Convexity, Computing Gradients, Gradient Descent and Variants| |
+|8| Sep 27   |Neural Networks: Learning non-linear boundaries, Neural Nets as encoders or feature learners, Learning multiple patterns, Designing Neural Networks: Interconnections, Wide or Deep?, Activation, Loss, Auto-diff, Backprop examples, Preventing Overfitting, CNN Architecture, Resnet|[Reading](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d)|
 |9| Oct 4    |Graphs, Graph Kernels, Graph Neural Networks, Attention Models,|Knowledge graphs, Scalable Graph Learning|GRL|
 |10| Oct 18       |GANs, Text Embeddings, Graph Embeddings||
 |11| Nov 8       |Clustering, Mixture Models||
