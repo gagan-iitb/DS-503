@@ -73,8 +73,8 @@ Meeting Times
 Books/References/Practice materials
 -----------------------------------
 * Course Textbook
-  Mining of Massive Datasets (MMDS) : http://www.mmds.org/
-  Mathematics for Machine Learning (MML) : https://mml-book.github.io/
+  * Mining of Massive Datasets (MMDS) : http://www.mmds.org/
+  * Mathematics for Machine Learning (MML) : https://mml-book.github.io/
   
 * Reference Materials
   * Foundations of Data Science (FoDS) : https://www.cs.cornell.edu/jeh/book.pdf
