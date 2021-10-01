@@ -64,7 +64,21 @@ https://www.analyticsvidhya.com/blog/2021/05/top-10-open-source-datasets-for-obj
   https://www.unb.ca/cic/datasets/index.html
   
   
+__Large Data__
 
+https://course.fast.ai/datasets#nlp
+
+https://registry.opendata.aws/commoncrawl/
+
+https://registry.opendata.aws/
+
+https://allenai.org/data/zest
+
+https://www.kaggle.com/PROPPG-PPG/hourly-weather-surface-brazil-southeast-region
+
+https://www.kaggle.com/jessemostipak/hotel-booking-demand
+
+https://www.kaggle.com/crailtap/taxi-trajectory
 
   
 
