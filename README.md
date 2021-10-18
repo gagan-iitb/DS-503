@@ -59,8 +59,8 @@ Tentative Course Outline (per fractal)
 |6| Sep 13   | Linear Models, Loss functions for Regression and Classification, Perceptron, Average Perceptron, Online ML, SVM (Hard Margin and Soft margin), Decision Trees, Information and Entropy| MMDS Ch12|
 |7| Sep 20   | Ensemble Methods, Bagging, Boosting: AdaBoost, Gradient Boosting, Optimization Formulations of ML problems, Convexity, Computing Gradients, Gradient Descent and Variants| MMDS Ch12, MML Ch5,7|
 |8| Sep 27   |Neural Networks: Learning non-linear boundaries, Neural Nets as encoders or feature learners, Learning multiple patterns, Designing Neural Networks: Interconnections, Wide or Deep?, Activation, Loss, Auto-diff, Backprop examples, Preventing Overfitting, CNN Architecture, Resnet|MMDS Ch13 , MML Ch5,7[Reading](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d)|
-|9| Oct 4    |Graphs, Graph Kernels, Graph Neural Networks, Attention Models,|Knowledge graphs, Scalable Graph Learning|GRL|
-|10| Oct 18       |GANs, Text Embeddings, Graph Embeddings||
+|9| Oct 4    |Graphs, Degree, Degree Distribution, Distance, Diameter, Radius, Connected Components, Centrality Measures, Page Rank|MMDS Ch 5|
+|10| Oct 18  | Graph Embeddings, Random Walk Techniques, Biased Random Walks: DFS vs BFS|GRL|
 |11| Nov 8       |Clustering, Mixture Models||
 |12| Nov 15      |Sequence Models, LSTM, Distance functions for time series||
 |13| Nov 22      |Matrix Profile, FFT||
