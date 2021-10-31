@@ -43,11 +43,8 @@ Pre-requisites
   
 If you don't meet one or more pre-requisites, be prepared to spend more time before or during the course in learning them.
 
-Tentative Course Outline (per fractal)
+Detailed Course Schedule 
 --------------------------------------
-![image](https://user-images.githubusercontent.com/79624301/125885925-07826a96-29d8-4833-aeb5-79bb29330acc.png)
-* Last fractal will focus on course project and presentations.
-* Useful resources have been posted 
 
 |#| Week| Topics covered in class | Text Book Reference |
 | --- | ------------| ----------- | -------- |
@@ -61,9 +58,10 @@ Tentative Course Outline (per fractal)
 |8| Sep 27   |Neural Networks: Learning non-linear boundaries, Neural Nets as encoders or feature learners, Learning multiple patterns, Designing Neural Networks: Interconnections, Wide or Deep?, Activation, Loss, Auto-diff, Backprop examples, Preventing Overfitting, CNN Architecture, Resnet|MMDS Ch13 , MML Ch5,7[Reading](https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d)|
 |9| Oct 4    |Graphs, Degree, Degree Distribution, Distance, Diameter, Radius, Connected Components, Centrality Measures, Page Rank|MMDS Ch 5|
 |10| Oct 18  | Graph Embeddings, Random Walk Techniques, Biased Random Walks: DFS vs BFS|GRL|
-|11| Nov 8       |Clustering, Mixture Models||
-|12| Nov 15      |Sequence Models, LSTM, Distance functions for time series||
-|13| Nov 22      |Matrix Profile, FFT||
+|11| Nov 1   |Text Embeddings: Node2vec, GNN:Graph Sage, Knowledge Graphs ||
+|12| Nov 8   |Knowledge Graph Embeddings: RotatE, Time Series, Distance Metrics|| 
+|13| Nov 15  |Sequence Models, LSTM, Distance functions for time series||
+|14| Nov 22  |Matrix Profile, FFT, Image Segmentation, Image Captioning||
 
 Meeting Times
 -------------
