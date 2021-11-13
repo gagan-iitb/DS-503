@@ -59,9 +59,26 @@ Detailed Course Schedule
 |9| Oct 4    |Graphs, Degree, Degree Distribution, Distance, Diameter, Radius, Connected Components, Centrality Measures, Page Rank|MMDS Ch 5|
 |10| Oct 18  | Graph Embeddings, Random Walk Techniques, Biased Random Walks: DFS vs BFS|GRL|
 |11| Nov 1   |Text Embeddings: Node2vec, GNN:Graph Sage, Knowledge Graphs ||
-|12| Nov 8   |Knowledge Graph Embeddings: RotatE, Time Series, Distance Metrics|| 
-|13| Nov 15  |Sequence Models, LSTM, Distance functions for time series||
-|14| Nov 22  |Matrix Profile, FFT, Image Segmentation, Image Captioning||
+| Nov 2 |Graph  Convolutional Networks| Semi-Supervised Classification with Graph Convolutional Networks| [1](https://arxiv.org/abs/1609.02907) [Blog by Kipf](https://tkipf.github.io/graph-convolutional-networks/) |
+| Nov 8 |Scalable Graph Neural Networks  | Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks | [2](https://arxiv.org/abs/1905.07953# https://www.youtube.com/watch?v=2nPCw3yHlnI) [Video on Cluster-GCN](https://pythonrepo.com/repo/benedekrozemberczki-ClusterGCN)|
+| Nov 8 |GNN for Map Distances | Graph Neural Networks for Traffic Forecasting | [3](https://arxiv.org/abs/2104.13096) [Deep Mind Blog](https://github.com/jwwthu/GNN4Traffic https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks)|
+| Nov 9 |Time Series Distance Mertics | Making Time-series Classification More Accurate Using Learned Constraints| [4](https://www.cs.ucr.edu/~eamonn/RATANAMC.pdf) [Wiki](https://en.wikipedia.org/wiki/Dynamic_time_warping) |
+| Nov 9|GNN application| Modeling polypharmacy side effects with graph convolutional networks | [5](https://academic.oup.com/bioinformatics/article/34/13/i457/5045770?login=true)  |
+| Nov 15|Knowledge Graph Embedding  | RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space | [6](https://arxiv.org/abs/1902.10197) [Video]( https://www.youtube.com/watch?v=xop5tC9T5xM)|
+| Nov 15|GNN Scaling |GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings | [7](https://cs.stanford.edu/people/jure/pubs/gnnautoscale-icml21.pdf) |
+| Nov 16|Matrix Profile 1 | Matrix Profile I: All Pairs Similarity Joins for Time Series: A Unifying View that Includes Motifs, Discords and Shapelets | [8](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html) |
+| Nov 16|Matrix Profile 2 | Matrix Profile VII: Time Series Chains: A New Primitive for Time Series Data Mining |[9](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html) |
+| Nov 22|Matrix Profile 3| Matrix Profile XXI: MERLIN: Parameter-Free Discovery of Arbitrary Length Anomalies in Massive Time Series Archives|  [10](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html)  |
+| Nov 22|Object Detection|Meta-DETR: Image-Level Few-Shot Object Detection with Inter-Class Correlation Exploitation | [11](https://arxiv.org/abs/2103.11731) |
+| Nov 23| GAN| Generative Adversarial Networks |[12](https://arxiv.org/abs/1406.2661) |
+| Nov 23|Variational Auto-encoders | An Introduction to Variational Autoencoders | [13](https://arxiv.org/abs/1906.02691) |
+| Nov 29|Image classification| CNN-RNN: A Unified Framework for Multi-label Image Classification| [14](https://arxiv.org/ftp/arxiv/papers/1604/1604.04573.pdf) |
+| Nov 29|Sequence Modeling|Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling |  [15](https://arxiv.org/abs/1412.3555)|
+
+
+
+
+
 
 Meeting Times
 -------------
