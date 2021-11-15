@@ -13,8 +13,8 @@ Reading List for the course
 | Nov 16|Matrix Profile 1 | Matrix Profile I: All Pairs Similarity Joins for Time Series: A Unifying View that Includes Motifs, Discords and Shapelets | Ranjith | https://www.cs.ucr.edu/~eamonn/MatrixProfile.html |
 | Nov 16|Matrix Profile 2 | Matrix Profile VII: Time Series Chains: A New Primitive for Time Series Data Mining |Ujan| https://www.cs.ucr.edu/~eamonn/MatrixProfile.html |
 | Nov 22|Matrix Profile 3| Matrix Profile XXI: MERLIN: Parameter-Free Discovery of Arbitrary Length Anomalies in Massive Time Series Archives| Vikash  | https://www.cs.ucr.edu/~eamonn/MatrixProfile.html  |
-| Nov 22|Object Detection|Meta-DETR: Image-Level Few-Shot Object Detection with Inter-Class Correlation Exploitation | Manas, Prakanshul| https://arxiv.org/abs/2103.11731 |
-| Nov 23| GAN| Generative Adversarial Networks |Hrithik |https://arxiv.org/abs/1406.2661 |
-| Nov 23|Variational Auto-encoders | An Introduction to Variational Autoencoders | Suraj, Nitin    |https://arxiv.org/abs/1906.02691 |
+| Nov 22|Object Detection|Meta-DETR: Image-Level Few-Shot Object Detection with Inter-Class Correlation Exploitation | Manas, Prakanshul| https://arxiv.org/abs/2103.11731, Section 5.5.3 of Szeliski's Book |
+| Nov 23| GAN| Generative Adversarial Networks |Hrithik |https://arxiv.org/abs/1406.2661 , Section 5.5.4 of Szeliski's Book |
+| Nov 23|Variational Auto-encoders | An Introduction to Variational Autoencoders | Suraj, Nitin    |https://arxiv.org/abs/1906.02691, Section 5.5.4 of Szeliski's Book |
 | Nov 29|Image classification| CNN-RNN: A Unified Framework for Multi-label Image Classification| Sarang| https://arxiv.org/ftp/arxiv/papers/1604/1604.04573.pdf |
-| Nov 29|Sequence Modeling|Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling | Madhur| https://arxiv.org/abs/1412.3555|
+| Nov 29|Sequence Modeling|Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling, Section 5.5.2 of Szeliski's Book | Madhur| https://arxiv.org/abs/1412.3555|
