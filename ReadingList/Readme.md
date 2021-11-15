@@ -17,4 +17,4 @@ Reading List for the course
 | Nov 23| GAN| Generative Adversarial Networks |Hrithik |https://arxiv.org/abs/1406.2661 , Section 5.5.4 of Szeliski's Book |
 | Nov 23|Variational Auto-encoders | An Introduction to Variational Autoencoders | Suraj, Nitin    |https://arxiv.org/abs/1906.02691, Section 5.5.4 of Szeliski's Book |
 | Nov 29|Image classification| CNN-RNN: A Unified Framework for Multi-label Image Classification| Sarang| https://arxiv.org/ftp/arxiv/papers/1604/1604.04573.pdf |
-| Nov 29|Sequence Modeling|Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling, Section 5.5.2 of Szeliski's Book | Madhur| https://arxiv.org/abs/1412.3555|
+| Nov 29|Sequence Modeling|Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling, Section 5.5.2 of Szeliski's Book | Madhur| https://arxiv.org/abs/1412.3555 , Section 5.5.2 of Szeliski's Book |
